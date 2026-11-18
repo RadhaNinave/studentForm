@@ -1,0 +1,55 @@
+body {
+  background-color: #f5f6fa;
+}
+
+.form-card {
+  max-width: 760px;
+  width: 100%;
+  border-radius: 12px;
+}
+
+.title {
+  font-weight: 800;
+  color: #111827;
+}
+
+.form-label {
+  font-size: 0.8rem;
+  color: #374151;
+  margin-bottom: 0.25rem;
+}
+
+.empty-box {
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  padding: 1rem;
+  font-size: 0.85rem;
+  color: #6b7280;
+}
+
+.student-table {
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.student-table th {
+  background-color: #f9fafb;
+  font-size: 0.85rem;
+}
+
+.student-table td {
+  font-size: 0.9rem;
+  vertical-align: middle;
+}
+
+.btn-remove {
+  background-color: #fee2e2;
+  color: #dc2626;
+  border: none;
+}
+
+.btn-remove:hover {
+  background-color: #fecaca;
+  color: #b91c1c;
+}
